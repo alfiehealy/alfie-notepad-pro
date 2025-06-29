@@ -22,6 +22,7 @@ A fully-featured, modern notepad application built with Python and `ttkbootstrap
 ## 📸 Screenshots
 
 ![Alfie Notepad Pro Screenshot](assets/screenshot.png)
+![Alfie Notepad Pro Screenshot](assets/screenshot2.png)
 
 ---
 
